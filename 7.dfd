@@ -1,0 +1,42 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+6
+Pasaje
+4
+2500
+4
+1
+139
+'Digite su edad para saber si tiene un descuento de 70 porciento en pasaje de transmilenio solo se le hace descuento a niños menores de 10'
+5
+1
+4
+Edad
+7
+0
+1
+7
+Edad<10
+4
+1
+28
+'su total a pagar es',pasaje
+13
+6
+1
+5
+Total
+19
+(pasaje*0.7)-pasaje
+4
+1
+27
+'Su total a pagar es',total
+13
+1
